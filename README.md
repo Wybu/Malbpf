@@ -1,10 +1,5 @@
-# eBPF Ransomware Detector (Enhanced)
 
 An enhanced eBPF-based ransomware detection system with automatic process termination capabilities.
-
-## Overview
-
-This project is an improved version of [ebpfangel](https://github.com/TomasPhilippart/ebpfangel) with additional features for detecting and automatically killing ransomware processes.
 
 ## Features
 
